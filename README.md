@@ -17,7 +17,7 @@ package main
 
 import (
     "fmt"
-    "github.com/vmacas/greetings"
+    "github.com/vmacas84/greetings"
 )
 
 func main() {
